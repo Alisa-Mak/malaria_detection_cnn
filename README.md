@@ -22,8 +22,4 @@ These images are of the following categories:
 
 The final proposed model is Model 2 with Batch Normalization.
 
-The model is giving about 97% accuracy on the test data which is comparable to the accuracy of the validation data. This implies that the model is giving a generalized performance.
-The recall has a high range which implies that the model is doing slightly better at identifying some objects comparing some other objects. For example, based on the confusion matrix and recall metric, the model can identify ~ 99% of parasitized and can identify only ~ 95% of uninfected cells.
-The high recall for parasitized cells is important in our case because we are interested in identifying infected cells, which is more important than misidentification when uninfected are classified as infected.
-The model is majorly confused with uninfected cells which were predicted as parasitized.
-However, we need to keep in mind that this model takes longer time to train compared to the transfer learning techniques
+The model achieves about 97% accuracy on the test data, comparable to the validation data, indicating generalized performance. It has a high recall range, identifying ~99% of parasitized cells and ~95% of uninfected cells. This high recall for parasitized cells is crucial since identifying infected cells is more important. The model mainly confuses uninfected cells as parasitized. However, it takes longer to train compared to transfer learning techniques.
