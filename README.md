@@ -20,7 +20,7 @@ These images are of the following categories:
 
 ### Results
 
-The final proposed model is Model 2 with Batch Normalization.
+The final proposed model is **Model 2 with Batch Normalization**.
 
 The model achieves about 97% accuracy on the test data, comparable to the validation data, indicating generalized performance. It has a high recall range, identifying ~99% of parasitized cells and ~95% of uninfected cells. This high recall for parasitized cells is crucial since identifying infected cells is more important. The model mainly confuses uninfected cells as parasitized. However, it takes longer to train compared to transfer learning techniques.
 
