@@ -1,6 +1,6 @@
 # Malaria Detection Capstone Project
 
-This project simulates a real-world problem-solving experience. This capstone project is part of the [MIT Professional Education Applied Data Science Program](https://www.mygreatlearning.com/mit-data-science-program).
+This project simulates a real-world problem-solving experience. This capstone project is part of the [MIT Professional Education](https://www.mygreatlearning.com/mit-data-science-program) Applied Data Science Program.
 
 ### Problem Definition
 
